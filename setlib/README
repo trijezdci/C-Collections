@@ -1,0 +1,11 @@
+Setlib
+
+C library for bitsets. The library provides an API to create and use bitsets and associated set iterators.
+Requires C99, no dependencies, platform independent. BSD style license.
+
+List of files
+
+BITSET.h  bitset interface
+BITSET.c  bitset implementation
+
+END OF FILE
