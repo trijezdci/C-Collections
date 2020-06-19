@@ -1,0 +1,14 @@
+LIFOlib
+
+C library for LIFO (stack) storage. The library provides an API to create and use static and dynamic stacks for
+arbitrary data. Data may be stored and retrieved by reference only. Requires C99, no dependencies, platform
+independent. BSD style license.
+
+List of files
+
+LIFO.h  dynamic stack interface
+LICO.c  dynamic stack implementation
+static_lifo.h  static stack interface
+static_lifo.c  static stack implementation
+
+END OF FILE
