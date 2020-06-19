@@ -1,0 +1,12 @@
+PQlib
+
+C library for dynamic priority queues. The library provides an API to create and use dynamic priority queues for
+arbitrary data. Data may be stored and retrieved by reference only. All operations are O(log n). Requires C99,
+no dependencies, platform independent. BSD style license.
+
+List of files
+
+PQ.h  priority queue interface
+PQ.c  priority queue implementation
+
+END OF FILE
