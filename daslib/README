@@ -1,0 +1,12 @@
+DASlib
+
+C library for dynamic array storage. The library provides an API to create and use auto-resizing dynamic arrays for
+arbitrary data. Data may be stored and retrieved by reference only. Requires C99, no dependencies, platform
+independent. BSD style license.
+
+List of files
+
+DAS.h  dynamic array storage interface
+DAS.c  dynamic array storage implementation
+
+END OF FILE
