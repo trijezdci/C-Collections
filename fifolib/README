@@ -1,0 +1,11 @@
+FIFOlib
+
+C library for FIFO (queue) storage. The library provides an API to create and use queues for arbitrary data. Data may
+be stored and retrieved by reference only. Requires C99, no dependencies, platform independent. BSD style license.
+
+List of files
+
+fifo_static.h  static fifo storage interface
+fifo_static.c  static fifo storage implementation
+
+END OF FILE
