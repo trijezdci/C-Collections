@@ -1,0 +1,12 @@
+C-Collections
+
+Common header files.
+
+List of files
+
+alloc.h     common allocation interface
+bailout.h   common exception handling
+common.h    common macro definitions
+hash.h      common hash function
+
+END OF FILE
