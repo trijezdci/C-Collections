@@ -1,0 +1,13 @@
+KVSlib
+
+C library for key-value storage. The library provides an API to create and use dynamic associative arrays for
+arbitrary data. Data may be stored and retrieved by copy or by reference. Stored data is reference counted to
+prevent dangling pointers. Optimised for fast lookups and large data sets. Requires C99, no dependencies,
+platform independent. BSD style license.
+
+List of files
+
+KVS.h  Key-value storage interface
+KVS.c  Key-value storage implementation
+
+END OF FILE
