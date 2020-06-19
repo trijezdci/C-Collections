@@ -1,0 +1,15 @@
+BSTlib
+
+C library for balanced binary search tree storage. The library provides an API to create and use
+dynamic balanced binary search trees for arbitrary data. Data may be stored and retrieved
+by reference only. At present, AA trees and Splay trees are implemented.
+Requires C99, no dependencies, platform independent. BSD style license.
+
+List of files
+
+AAT.h     AA Tree library headers
+AAT.c     AA Tree library implementation
+Splay.h   Splay Tree library headers
+Splay.c   Splay Tree library implementation
+
+END OF FILE
