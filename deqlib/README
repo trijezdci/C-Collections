@@ -1,0 +1,12 @@
+DEQlib
+
+C library for double ended queue storage. The library provides an API to create and use dynamic double ended queues
+for arbitrary data. Data may be stored and retrieved by reference only. Requires C99, no dependencies, platform
+independent. BSD style license.
+
+List of files
+
+DEQ.h  DEQ headers
+DEQ.c  DEQ implementation
+
+END OF FILE
