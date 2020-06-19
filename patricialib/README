@@ -1,0 +1,13 @@
+Patricialib
+
+C library for Patricia trie storage. The library provides an API to create and use dynamic compact Patricia tries
+for arbitrary data. Keys may be of variable length. Data may be stored and retrieved by reference only.
+Supports in-order retrieval and best-match prefix searches with foreach closure semantics. Requires C99,
+no dependencies, platform independent. BSD style license.
+
+List of files
+
+Patricia.h  patricia trie interface
+Patricia.c  patricia tria impelementation
+
+END OF FILE
