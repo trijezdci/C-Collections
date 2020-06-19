@@ -7,7 +7,7 @@ independent. BSD style license.
 List of files
 
 LIFO.h  dynamic stack interface
-LICO.c  dynamic stack implementation
+LIFO.c  dynamic stack implementation
 static_lifo.h  static stack interface
 static_lifo.c  static stack implementation
 
